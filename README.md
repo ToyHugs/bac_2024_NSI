@@ -3,9 +3,8 @@ Correction du Baccalauréat pratique 2024 de NSI
 
 ## Installation
 ```bash
-git clone <url>
-cd <repo>
-pip install -r requirements.txt
+git clone git@github.com:ToyHugs/bac_2024_NSI.git
+cd bac_2024_NSI
 ```
 
 ## Utilisation
