@@ -11,5 +11,4 @@ def chercher(tab, x, i, j):
         return chercher(tab, x, ... , ...) 
     else:
         return ... 
-
-
+    

@@ -12,5 +12,12 @@ Ou si vous ne disposez pas de Git, vous pouvez simplement télécharger l'archiv
 
 Enjoy & Good Luck ! :D
 
+## Astuces
+
+Lors de la correction des exercices, j'ai remarqué qu'il y avait beaucoup d'exercices sur ces thèmes suivants :
+- Conversion en base binaire
+- Tri bulle
+N'hésitez pas à vous entraîner sur ces thèmes pour être prêt le jour J !
+
 By ToyHugs
 [Website](https://toyhugs.fr)
